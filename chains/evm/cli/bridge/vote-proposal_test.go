@@ -7,12 +7,12 @@ import (
 
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/golang/mock/gomock"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/transactor"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/cli"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/cli/bridge"
-	mock_bridge "github.com/nonceblox/elysium-chainsafe-core/chains/evm/cli/bridge/mock"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/executor/proposal"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls/transactor"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/cli"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/cli/bridge"
+	mock_bridge "github.com/sahil3vedi/chainsafe-core/chains/evm/cli/bridge/mock"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/executor/proposal"
 	"github.com/spf13/cobra"
 	"github.com/stretchr/testify/suite"
 )

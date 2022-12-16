@@ -6,8 +6,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/nonceblox/elysium-chainsafe-core/config"
-	"github.com/nonceblox/elysium-chainsafe-core/config/relayer"
+	"github.com/sahil3vedi/chainsafe-core/config"
+	"github.com/sahil3vedi/chainsafe-core/config/relayer"
 	"github.com/stretchr/testify/suite"
 )
 

@@ -9,7 +9,7 @@ import (
 	big "math/big"
 	reflect "reflect"
 
-	transactor "github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/transactor"
+	transactor "github.com/sahil3vedi/chainsafe-core/chains/evm/calls/transactor"
 	common "github.com/ethereum/go-ethereum/common"
 	gomock "github.com/golang/mock/gomock"
 )

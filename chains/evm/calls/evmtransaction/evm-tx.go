@@ -4,7 +4,7 @@ import (
 	"crypto/ecdsa"
 	"math/big"
 
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/evmclient"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls/evmclient"
 
 	"github.com/ethereum/go-ethereum/accounts/abi/bind"
 	"github.com/ethereum/go-ethereum/common"

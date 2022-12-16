@@ -3,15 +3,15 @@ package admin
 import (
 	"fmt"
 
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/contracts/bridge"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/evmtransaction"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/transactor"
-	"github.com/nonceblox/elysium-chainsafe-core/util"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls/contracts/bridge"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls/evmtransaction"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls/transactor"
+	"github.com/sahil3vedi/chainsafe-core/util"
 
 	"github.com/ethereum/go-ethereum/common"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/cli/flags"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/cli/initialize"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/cli/logger"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/cli/flags"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/cli/initialize"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/cli/logger"
 	"github.com/rs/zerolog/log"
 	"github.com/spf13/cobra"
 )

@@ -3,7 +3,7 @@ package account
 import (
 	"math/big"
 
-	"github.com/nonceblox/elysium-chainsafe-core/crypto/secp256k1"
+	"github.com/sahil3vedi/chainsafe-core/crypto/secp256k1"
 
 	"github.com/ethereum/go-ethereum/common"
 )

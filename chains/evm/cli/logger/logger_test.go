@@ -6,8 +6,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/cli"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/cli/logger"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/cli"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/cli/logger"
 	"github.com/spf13/cobra"
 	"github.com/stretchr/testify/suite"
 )

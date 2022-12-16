@@ -6,8 +6,8 @@ import (
 	"testing"
 
 	"github.com/golang/mock/gomock"
-	"github.com/nonceblox/elysium-chainsafe-core/store"
-	mock_store "github.com/nonceblox/elysium-chainsafe-core/store/mock"
+	"github.com/sahil3vedi/chainsafe-core/store"
+	mock_store "github.com/sahil3vedi/chainsafe-core/store/mock"
 	"github.com/stretchr/testify/suite"
 	"github.com/syndtr/goleveldb/leveldb"
 )

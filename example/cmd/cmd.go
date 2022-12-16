@@ -4,10 +4,10 @@
 package cmd
 
 import (
-	evmCLI "github.com/nonceblox/elysium-chainsafe-core/chains/evm/cli"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/cli/local"
-	"github.com/nonceblox/elysium-chainsafe-core/example/app"
-	"github.com/nonceblox/elysium-chainsafe-core/flags"
+	evmCLI "github.com/sahil3vedi/chainsafe-core/chains/evm/cli"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/cli/local"
+	"github.com/sahil3vedi/chainsafe-core/example/app"
+	"github.com/sahil3vedi/chainsafe-core/flags"
 	"github.com/rs/zerolog/log"
 	"github.com/spf13/cobra"
 )

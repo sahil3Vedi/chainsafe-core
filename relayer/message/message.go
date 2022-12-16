@@ -7,7 +7,7 @@ import (
 	"math/big"
 
 	"github.com/ethereum/go-ethereum/common"
-	"github.com/nonceblox/elysium-chainsafe-core/types"
+	"github.com/sahil3vedi/chainsafe-core/types"
 )
 
 type TransferType string

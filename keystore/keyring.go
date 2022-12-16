@@ -7,9 +7,9 @@ import (
 	"fmt"
 
 	"github.com/centrifuge/go-substrate-rpc-client/signature"
-	"github.com/nonceblox/elysium-chainsafe-core/crypto"
-	"github.com/nonceblox/elysium-chainsafe-core/crypto/secp256k1"
-	"github.com/nonceblox/elysium-chainsafe-core/crypto/sr25519"
+	"github.com/sahil3vedi/chainsafe-core/crypto"
+	"github.com/sahil3vedi/chainsafe-core/crypto/secp256k1"
+	"github.com/sahil3vedi/chainsafe-core/crypto/sr25519"
 )
 
 // The Constant "keys". These are the name that the keys are based on. This can be expanded, but

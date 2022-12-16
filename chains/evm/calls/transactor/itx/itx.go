@@ -9,8 +9,8 @@ import (
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/hexutil"
 	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/transactor"
-	"github.com/nonceblox/elysium-chainsafe-core/crypto/secp256k1"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls/transactor"
+	"github.com/sahil3vedi/chainsafe-core/crypto/secp256k1"
 )
 
 var (

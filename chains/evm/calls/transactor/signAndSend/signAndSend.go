@@ -5,8 +5,8 @@ import (
 	"math/big"
 
 	"github.com/ethereum/go-ethereum/common"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/transactor"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls/transactor"
 	"github.com/rs/zerolog/log"
 )
 

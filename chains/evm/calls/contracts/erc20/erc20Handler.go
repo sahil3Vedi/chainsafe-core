@@ -5,10 +5,10 @@ import (
 
 	"github.com/ethereum/go-ethereum/accounts/abi"
 	"github.com/ethereum/go-ethereum/common"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/consts"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/contracts"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/transactor"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls/consts"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls/contracts"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls/transactor"
 )
 
 type ERC20HandlerContract struct {

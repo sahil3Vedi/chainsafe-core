@@ -9,12 +9,12 @@ import (
 	"github.com/ethereum/go-ethereum/accounts/abi"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/golang/mock/gomock"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/consts"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/contracts/forwarder"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/transactor"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/transactor/itx"
-	mock_forwarder "github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/transactor/itx/mock"
-	"github.com/nonceblox/elysium-chainsafe-core/crypto/secp256k1"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls/consts"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls/contracts/forwarder"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls/transactor"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls/transactor/itx"
+	mock_forwarder "github.com/sahil3vedi/chainsafe-core/chains/evm/calls/transactor/itx/mock"
+	"github.com/sahil3vedi/chainsafe-core/crypto/secp256k1"
 	"github.com/stretchr/testify/suite"
 )
 

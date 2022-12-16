@@ -4,8 +4,8 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/nonceblox/elysium-chainsafe-core/relayer/message"
-	"github.com/nonceblox/elysium-chainsafe-core/types"
+	"github.com/sahil3vedi/chainsafe-core/relayer/message"
+	"github.com/sahil3vedi/chainsafe-core/types"
 	"github.com/rs/zerolog/log"
 
 	"github.com/ethereum/go-ethereum/common"

@@ -6,8 +6,8 @@ import (
 	"testing"
 
 	"github.com/golang/mock/gomock"
-	"github.com/nonceblox/elysium-chainsafe-core/relayer/message"
-	mock_relayer "github.com/nonceblox/elysium-chainsafe-core/relayer/mock"
+	"github.com/sahil3vedi/chainsafe-core/relayer/message"
+	mock_relayer "github.com/sahil3vedi/chainsafe-core/relayer/mock"
 	"github.com/stretchr/testify/suite"
 )
 

@@ -1,4 +1,4 @@
-module github.com/nonceblox/elysium-chainsafe-core
+module github.com/sahil3vedi/chainsafe-core
 
 go 1.17
 

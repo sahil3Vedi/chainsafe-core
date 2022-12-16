@@ -5,9 +5,9 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/events"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/listener"
-	"github.com/nonceblox/elysium-chainsafe-core/relayer/message"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls/events"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/listener"
+	"github.com/sahil3vedi/chainsafe-core/relayer/message"
 
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/math"

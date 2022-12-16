@@ -8,10 +8,10 @@ import (
 
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/golang/mock/gomock"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/transactor"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/transactor/itx"
-	mock_itx "github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/transactor/itx/mock"
-	"github.com/nonceblox/elysium-chainsafe-core/crypto/secp256k1"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls/transactor"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls/transactor/itx"
+	mock_itx "github.com/sahil3vedi/chainsafe-core/chains/evm/calls/transactor/itx/mock"
+	"github.com/sahil3vedi/chainsafe-core/crypto/secp256k1"
 	"github.com/stretchr/testify/suite"
 )
 

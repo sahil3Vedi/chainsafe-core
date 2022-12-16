@@ -6,16 +6,16 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/contracts/bridge"
-	mock_calls "github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/mock"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/transactor"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls/contracts/bridge"
+	mock_calls "github.com/sahil3vedi/chainsafe-core/chains/evm/calls/mock"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls/transactor"
 
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/golang/mock/gomock"
-	mock_transactor "github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/transactor/mock"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/transactor/signAndSend"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/executor/proposal"
-	"github.com/nonceblox/elysium-chainsafe-core/relayer/message"
+	mock_transactor "github.com/sahil3vedi/chainsafe-core/chains/evm/calls/transactor/mock"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls/transactor/signAndSend"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/executor/proposal"
+	"github.com/sahil3vedi/chainsafe-core/relayer/message"
 	"github.com/stretchr/testify/suite"
 )
 

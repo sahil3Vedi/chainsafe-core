@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/nonceblox/elysium-chainsafe-core/logger"
+	"github.com/sahil3vedi/chainsafe-core/logger"
 	"github.com/rs/zerolog"
 	"github.com/rs/zerolog/log"
 	"github.com/spf13/pflag"

@@ -7,9 +7,9 @@ import (
 	"math/big"
 
 	"github.com/ethereum/go-ethereum/common"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/executor/proposal"
-	"github.com/nonceblox/elysium-chainsafe-core/relayer/message"
-	"github.com/nonceblox/elysium-chainsafe-core/types"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/executor/proposal"
+	"github.com/sahil3vedi/chainsafe-core/relayer/message"
+	"github.com/sahil3vedi/chainsafe-core/types"
 	"github.com/rs/zerolog/log"
 )
 

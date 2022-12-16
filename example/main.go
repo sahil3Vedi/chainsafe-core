@@ -4,7 +4,7 @@
 package main
 
 import (
-	"github.com/nonceblox/elysium-chainsafe-core/example/cmd"
+	"github.com/sahil3vedi/chainsafe-core/example/cmd"
 )
 
 func main() {

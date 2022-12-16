@@ -4,9 +4,9 @@ import (
 	"fmt"
 
 	"github.com/ethereum/go-ethereum/common"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/cli/flags"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/cli/logger"
-	"github.com/nonceblox/elysium-chainsafe-core/util"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/cli/flags"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/cli/logger"
+	"github.com/sahil3vedi/chainsafe-core/util"
 	"github.com/rs/zerolog/log"
 	"github.com/spf13/cobra"
 )

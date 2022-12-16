@@ -4,7 +4,7 @@ import (
 	"math/big"
 	"testing"
 
-	mock_evmgaspricer "github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/evmgaspricer/mock"
+	mock_evmgaspricer "github.com/sahil3vedi/chainsafe-core/chains/evm/calls/evmgaspricer/mock"
 
 	"github.com/golang/mock/gomock"
 	"github.com/stretchr/testify/suite"

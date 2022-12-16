@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/evmclient"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/evmtransaction"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls/evmclient"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls/evmtransaction"
 
 	"github.com/spf13/cobra"
 )

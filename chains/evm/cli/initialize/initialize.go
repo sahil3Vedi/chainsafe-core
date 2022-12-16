@@ -4,13 +4,13 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/evmclient"
-	evmgaspricer "github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/evmgaspricer"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/transactor"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/transactor/prepare"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/transactor/signAndSend"
-	"github.com/nonceblox/elysium-chainsafe-core/crypto/secp256k1"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls/evmclient"
+	evmgaspricer "github.com/sahil3vedi/chainsafe-core/chains/evm/calls/evmgaspricer"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls/transactor"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls/transactor/prepare"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls/transactor/signAndSend"
+	"github.com/sahil3vedi/chainsafe-core/crypto/secp256k1"
 	"github.com/rs/zerolog/log"
 )
 

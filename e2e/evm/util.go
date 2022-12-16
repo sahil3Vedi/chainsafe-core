@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/consts"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/events"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls/consts"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls/events"
 	"github.com/rs/zerolog/log"
 
 	"github.com/ethereum/go-ethereum"

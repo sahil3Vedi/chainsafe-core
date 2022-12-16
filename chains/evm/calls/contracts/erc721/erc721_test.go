@@ -4,14 +4,14 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/contracts/erc721"
-	mock_calls "github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/mock"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls/contracts/erc721"
+	mock_calls "github.com/sahil3vedi/chainsafe-core/chains/evm/calls/mock"
 
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/golang/mock/gomock"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/transactor"
-	mock_transactor "github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/transactor/mock"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/transactor/signAndSend"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls/transactor"
+	mock_transactor "github.com/sahil3vedi/chainsafe-core/chains/evm/calls/transactor/mock"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls/transactor/signAndSend"
 	"github.com/stretchr/testify/suite"
 )
 

@@ -9,7 +9,7 @@ import (
 	big "math/big"
 	reflect "reflect"
 
-	evmclient "github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/evmclient"
+	evmclient "github.com/sahil3vedi/chainsafe-core/chains/evm/calls/evmclient"
 	common "github.com/ethereum/go-ethereum/common"
 	types "github.com/ethereum/go-ethereum/core/types"
 	gomock "github.com/golang/mock/gomock"

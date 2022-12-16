@@ -1,8 +1,8 @@
 package utils
 
 import (
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/evmgaspricer"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls/evmgaspricer"
 
 	"github.com/spf13/cobra"
 )

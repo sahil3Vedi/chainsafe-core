@@ -4,9 +4,9 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/contracts/centrifuge"
-	mock_calls "github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/mock"
-	mock_transactor "github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/transactor/mock"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls/contracts/centrifuge"
+	mock_calls "github.com/sahil3vedi/chainsafe-core/chains/evm/calls/mock"
+	mock_transactor "github.com/sahil3vedi/chainsafe-core/chains/evm/calls/transactor/mock"
 
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/golang/mock/gomock"

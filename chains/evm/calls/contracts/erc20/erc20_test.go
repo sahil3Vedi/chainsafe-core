@@ -6,10 +6,10 @@ import (
 
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/golang/mock/gomock"
-	erc20 "github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/contracts/erc20"
-	mock_calls "github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/mock"
-	mock_transactor "github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/transactor/mock"
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/transactor/signAndSend"
+	erc20 "github.com/sahil3vedi/chainsafe-core/chains/evm/calls/contracts/erc20"
+	mock_calls "github.com/sahil3vedi/chainsafe-core/chains/evm/calls/mock"
+	mock_transactor "github.com/sahil3vedi/chainsafe-core/chains/evm/calls/transactor/mock"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls/transactor/signAndSend"
 	"github.com/stretchr/testify/suite"
 )
 

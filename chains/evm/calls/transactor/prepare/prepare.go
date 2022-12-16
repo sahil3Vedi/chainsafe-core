@@ -3,7 +3,7 @@ package prepare
 import (
 	"fmt"
 
-	"github.com/nonceblox/elysium-chainsafe-core/chains/evm/calls/transactor"
+	"github.com/sahil3vedi/chainsafe-core/chains/evm/calls/transactor"
 
 	"github.com/ethereum/go-ethereum/common"
 )

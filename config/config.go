@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/creasty/defaults"
-	"github.com/nonceblox/elysium-chainsafe-core/config/relayer"
+	"github.com/sahil3vedi/chainsafe-core/config/relayer"
 	"github.com/spf13/viper"
 )
 
